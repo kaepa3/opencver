@@ -1,0 +1,4 @@
+github.com/adam-lavrik/go-imath v0.0.0-20200104135348-19d2b923d06c h1:msbxYZZrXgKCMiV4QvBLMtSZ/YGqRnVtXuWMv7Vjvhw=
+github.com/adam-lavrik/go-imath v0.0.0-20200104135348-19d2b923d06c/go.mod h1:XjvqMUpGd3Xn9Jtzk/4GEBCSoBX0eB2RyriXgne0IdM=
+gocv.io/x/gocv v0.26.0 h1:1azNvYEM245YN1bdw/WdX5YJzLg3Sr4STX0MqdWBIXM=
+gocv.io/x/gocv v0.26.0/go.mod h1:7Ju5KbPo+R85evmlhhKPVMwXtgDRNX/PtfVfbToSrLU=
